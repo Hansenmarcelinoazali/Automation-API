@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="My Test Suite">
+    <!-- Definisikan satu set tes -->
+    <test name="My Single Test">
+        <classes>
+            <!-- Nama kelas tes yang ingin Anda jalankan -->
+            <class name="apiauto.apiTest" />
+        </classes>
+    </test>
+</suite>
