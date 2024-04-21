@@ -14,7 +14,7 @@ public class main {
 
 
         String[] commands = {
-                "gradlew.bat clean test",
+
                 "allure serve build/allure-results"
         };
 
